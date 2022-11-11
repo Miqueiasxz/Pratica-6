@@ -1,4 +1,4 @@
-let arr = ["a", "b", "c", "b", "d", "c", "d", "f", "f"];
+let arr = ["a", "b", "c", "b", "d", "c", "d", "f"];
 
 
 let resultado = arr.reduce((acc, val) => {
